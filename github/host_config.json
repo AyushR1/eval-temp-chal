@@ -1,5 +1,5 @@
 {
-	"token": "<evalai_user_auth_token>",
-	"team_pk": "<host_team_pk>",
-	"evalai_host_url": "<evalai_host_url>"
+	"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcyNDM1ODc2OCwianRpIjoiZWQyMDE3NjM1ZTk3NDY1MTljOTAyYzEzY2FkOTlkYzgiLCJ1c2VyX2lkIjoyfQ.aN6GGUwJUXyp2Q26cu7ieAPEu1QOXAYoM9QkSQ4w7V4",
+	"team_pk": "1",
+	"evalai_host_url": "https://poor-apes-raise.loca.lt"
 }
